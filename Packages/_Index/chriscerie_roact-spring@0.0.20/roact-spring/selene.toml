@@ -1,5 +1,0 @@
-std = "roblox"
-
-[rules]
-unused_variable = "allow"
-empty_if = "allow"

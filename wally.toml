@@ -6,4 +6,4 @@ realm = "shared"
 
 [dependencies]
 roact = "roblox/roact@1.4.2"
-RoactSpring = "chriscerie/roact-spring@^0.0"
+RoactSpring = "chriscerie/roact-spring@1.0.1"
