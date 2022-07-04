@@ -1,0 +1,26 @@
+{
+  "name": "RoactTest2",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "WallyPackages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
