@@ -1,6 +1,9 @@
 # Project place file
 /RoactTest2.rbxlx
 
+#RoactSprings Git Clone
+/RoactSpringExamples
+
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
